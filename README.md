@@ -5,7 +5,8 @@ Property Rental Application built using FLutter
 ## Demo
 
 <p align="center">
-  <video source="https://raw.githubusercontent.com/Sagarpoudel122/RentalApp/master/demo/demo.mp4"></video>
+  <img src="https://raw.githubusercontent.com/Sagarpoudel122/RentalApp/master/demo/demo.gif"/>
+
 </p>
 
 ## Inspired By
