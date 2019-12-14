@@ -7,5 +7,5 @@ Property Rental Application built using FLutter
 ## Inspired By
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sagarpoudel122/AttendanceSystem/master/demo/demo.gif"/>
+<img src="https://raw.githubusercontent.com/Sagarpoudel122/RentalApp/master/demo/inspiredBy.png"/>
 </p>
