@@ -1,6 +1,6 @@
 # RentalApp
 
-Property Rental Application built using FLutter
+Property Rental Application built using Flutter
 
 ## Demo
 
