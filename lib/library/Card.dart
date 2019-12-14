@@ -287,6 +287,7 @@ class PropertyDetailCard extends StatelessWidget {
     return Container(
       height: 80,
       width: 200,
+      padding: EdgeInsets.only(top: 5, left: 5, right: 2),
       decoration: BoxDecoration(
           color: Colors.white,
           borderRadius: BorderRadius.only(
@@ -302,14 +303,14 @@ class PropertyDetailCard extends StatelessWidget {
           Text(title,
               style: TextStyle(
                   color: primaryColor,
-                  fontSize: 18,
+                  fontSize: 16,
                   fontWeight: FontWeight.bold)),
           Padding(
               padding: EdgeInsets.only(left: 5, top: 5),
               child: Text(description,
                   style: TextStyle(
                       color: Colors.grey,
-                      // fontSize: 18,
+                      fontSize: 12,
                       fontWeight: FontWeight.w900)))
         ],
       ),

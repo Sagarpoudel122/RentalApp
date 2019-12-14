@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:page_transition/page_transition.dart';
 import 'package:sewaa/library/Common.dart';
 import 'package:sewaa/screens/HomeScreen.dart';
+import 'package:sewaa/screens/LoginScreen.dart';
 
 class RegisterScreen extends StatefulWidget {
   @override
@@ -192,7 +193,13 @@ class _RegisterScreenState extends State<RegisterScreen> {
                           ),
                           FlatButton(
                             padding: EdgeInsets.only(right: 20),
-                            onPressed: () {},
+                            onPressed: () {
+                              Navigator.pushReplacement(
+                                  context,
+                                  PageTransition(
+                                      type: PageTransitionType.downToUp,
+                                      child: LoginScreen()));
+                            },
                             child: Text(
                               "Login ",
                               style: TextStyle(
