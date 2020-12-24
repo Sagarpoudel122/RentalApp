@@ -1,3 +1,5 @@
+# NOT FOR COMMERCIAL USE !!!
+
 # RentalApp
 
 Property Rental Application built using Flutter
