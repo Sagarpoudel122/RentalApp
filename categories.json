@@ -1,7 +1,7 @@
 [
     {
         "cat_id": "cata497304389495ab7c262383923243180",
-        "cat_name": "Auto & Motoo",
+        "cat_name": "Auto & Moto",
         "cat_ordering": "0",
         "status": "1",
         "added_date": "2019-05-29 22:27:49",
@@ -82,7 +82,7 @@
             "img_id": "imgf5e2f5c22c29dc86e937cde38fa55622",
             "img_parent_id": "cat3988c9afad482db9a872ee5c19c34fbb",
             "img_type": "category",
-            "img_path": "https://firebasestorage.googleapis.com/v0/b/bitmarket-a523c.appspot.com/o/mockup_images%2Fcategories%2Ftechnology.png?alt=media&token=42fb11a7-961a-4e3c-8b54-47c6014c6839",
+            "img_path": "https://firebasestorage.googleapis.com/v0/b/bitmarket-a523c.appspot.com/o/mockup_images%2Fcategories%2Fwatch.png?alt=media&token=ce4023c2-c5b8-49f4-82ba-029a3d44b0a6",
             "img_width": "600",
             "img_height": "400",
             "img_desc": "",
@@ -139,6 +139,42 @@
             "added_date": "2021-11-26 23:17:28",
             "added_user_id": "",
             "updated_date": "2021-11-26 23:17:28",
+            "updated_user_id": "",
+            "ordering": "1"
+        }
+    },
+    {
+        "cat_id": "cat445639833db3eff8b6cdb5510aa39faa",
+        "cat_name": "Digital Assets",
+        "cat_ordering": "0",
+        "status": "1",
+        "added_date": "2019-05-29 22:47:14",
+        "added_date_str": "3 years ago",
+        "default_photo": {
+            "img_id": "img04a6e9d9e64f031ac51020c3081bb293",
+            "img_parent_id": "cat445639833db3eff8b6cdb5510aa39faa",
+            "img_type": "category",
+            "img_path": "https://firebasestorage.googleapis.com/v0/b/bitmarket-a523c.appspot.com/o/mockup_images%2Fcategories%2Fdigital_assets.png?alt=media&token=3cdfdd80-58a9-4d75-bd75-14bc59b46ec5",
+            "img_width": "600",
+            "img_height": "400",
+            "img_desc": "",
+            "added_date": "2020-09-14 02:13:17",
+            "added_user_id": "",
+            "updated_date": "0000-00-00 00:00:00",
+            "updated_user_id": "",
+            "ordering": "0"
+        },
+        "default_icon": {
+            "img_id": "img98ccfd2491eaca19ddb3afc6f2d1275b",
+            "img_parent_id": "cat445639833db3eff8b6cdb5510aa39faa",
+            "img_type": "category-icon",
+            "img_path": "output-onlinepngtools.png",
+            "img_width": "512",
+            "img_height": "512",
+            "img_desc": "",
+            "added_date": "2021-11-26 22:33:18",
+            "added_user_id": "",
+            "updated_date": "2021-11-26 22:33:18",
             "updated_user_id": "",
             "ordering": "1"
         }
