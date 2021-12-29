@@ -37,7 +37,7 @@
     },
     {
         "cat_id": "cat3ed818f44f3a3e3d49a2798b4c51f5b8",
-        "cat_name": "Real State",
+        "cat_name": "Real Estate",
         "cat_ordering": "0",
         "status": "1",
         "added_date": "2019-05-29 22:31:29",
@@ -73,7 +73,7 @@
     },
     {
         "cat_id": "cat3988c9afad482db9a872ee5c19c34fbb",
-        "cat_name": "Music",
+        "cat_name": "Jewerly",
         "cat_ordering": "0",
         "status": "1",
         "added_date": "2019-05-29 22:32:39",
@@ -82,7 +82,7 @@
             "img_id": "imgf5e2f5c22c29dc86e937cde38fa55622",
             "img_parent_id": "cat3988c9afad482db9a872ee5c19c34fbb",
             "img_type": "category",
-            "img_path": "music_cover.png",
+            "img_path": "https://firebasestorage.googleapis.com/v0/b/bitmarket-a523c.appspot.com/o/mockup_images%2Fcategories%2Ftechnology.png?alt=media&token=42fb11a7-961a-4e3c-8b54-47c6014c6839",
             "img_width": "600",
             "img_height": "400",
             "img_desc": "",
@@ -109,7 +109,7 @@
     },
     {
         "cat_id": "cate2f7ee7f7317ceddf4395f82665b5a86",
-        "cat_name": "Fashions",
+        "cat_name": "Technology",
         "cat_ordering": "0",
         "status": "1",
         "added_date": "2019-05-29 22:34:41",
@@ -118,7 +118,7 @@
             "img_id": "imgef69fea8920229bf6a6664bcc7d5d33e",
             "img_parent_id": "cate2f7ee7f7317ceddf4395f82665b5a86",
             "img_type": "category",
-            "img_path": "fashions_cover.png",
+            "img_path": "https://firebasestorage.googleapis.com/v0/b/bitmarket-a523c.appspot.com/o/mockup_images%2Fcategories%2Ftechnology.png?alt=media&token=42fb11a7-961a-4e3c-8b54-47c6014c6839",
             "img_width": "600",
             "img_height": "400",
             "img_desc": "",
@@ -143,112 +143,6 @@
             "ordering": "1"
         }
     },
-    {
-        "cat_id": "cat5dfc0138547b926dccc5ee269b1cd042",
-        "cat_name": "Sports",
-        "cat_ordering": "0",
-        "status": "1",
-        "added_date": "2019-05-29 22:35:17",
-        "added_date_str": "3 years ago",
-        "default_photo": {
-            "img_id": "img77652e842b2b2e9935025f1b9e8af7cc",
-            "img_parent_id": "cat5dfc0138547b926dccc5ee269b1cd042",
-            "img_type": "category",
-            "img_path": "sports_cover.png",
-            "img_width": "600",
-            "img_height": "400",
-            "img_desc": "",
-            "added_date": "2020-09-14 02:13:17",
-            "added_user_id": "",
-            "updated_date": "0000-00-00 00:00:00",
-            "updated_user_id": "",
-            "ordering": "0"
-        },
-        "default_icon": {
-            "img_id": "img584b5ac2812a46b01325b80a28e406ae",
-            "img_parent_id": "cat5dfc0138547b926dccc5ee269b1cd042",
-            "img_type": "category-icon",
-            "img_path": "sport.png",
-            "img_width": "512",
-            "img_height": "512",
-            "img_desc": "",
-            "added_date": "2021-11-26 22:36:54",
-            "added_user_id": "",
-            "updated_date": "2021-11-26 22:36:54",
-            "updated_user_id": "",
-            "ordering": "1"
-        }
-    },
-    {
-        "cat_id": "catfa070dd5cc2a2c9c6196159f85480ff7",
-        "cat_name": "Services",
-        "cat_ordering": "0",
-        "status": "1",
-        "added_date": "2019-05-29 22:45:45",
-        "added_date_str": "3 years ago",
-        "default_photo": {
-            "img_id": "imge8a3add4c0d0df3c96e112865d0dc45a",
-            "img_parent_id": "catfa070dd5cc2a2c9c6196159f85480ff7",
-            "img_type": "category",
-            "img_path": "services_cover.png",
-            "img_width": "600",
-            "img_height": "400",
-            "img_desc": "",
-            "added_date": "2020-09-14 02:13:17",
-            "added_user_id": "",
-            "updated_date": "0000-00-00 00:00:00",
-            "updated_user_id": "",
-            "ordering": "0"
-        },
-        "default_icon": {
-            "img_id": "img01b910adc2f239dd583ed0ee170a140e",
-            "img_parent_id": "catfa070dd5cc2a2c9c6196159f85480ff7",
-            "img_type": "category-icon",
-            "img_path": "service-new.png",
-            "img_width": "200",
-            "img_height": "200",
-            "img_desc": "",
-            "added_date": "2021-11-26 23:16:59",
-            "added_user_id": "",
-            "updated_date": "2021-11-26 23:16:59",
-            "updated_user_id": "",
-            "ordering": "1"
-        }
-    },
-    {
-        "cat_id": "cat445639833db3eff8b6cdb5510aa39faa",
-        "cat_name": "Computers",
-        "cat_ordering": "0",
-        "status": "1",
-        "added_date": "2019-05-29 22:47:14",
-        "added_date_str": "3 years ago",
-        "default_photo": {
-            "img_id": "img04a6e9d9e64f031ac51020c3081bb293",
-            "img_parent_id": "cat445639833db3eff8b6cdb5510aa39faa",
-            "img_type": "category",
-            "img_path": "computers_cover.png",
-            "img_width": "600",
-            "img_height": "400",
-            "img_desc": "",
-            "added_date": "2020-09-14 02:13:17",
-            "added_user_id": "",
-            "updated_date": "0000-00-00 00:00:00",
-            "updated_user_id": "",
-            "ordering": "0"
-        },
-        "default_icon": {
-            "img_id": "img98ccfd2491eaca19ddb3afc6f2d1275b",
-            "img_parent_id": "cat445639833db3eff8b6cdb5510aa39faa",
-            "img_type": "category-icon",
-            "img_path": "output-onlinepngtools.png",
-            "img_width": "512",
-            "img_height": "512",
-            "img_desc": "",
-            "added_date": "2021-11-26 22:33:18",
-            "added_user_id": "",
-            "updated_date": "2021-11-26 22:33:18",
-            "updated_user_id": "",
-            "ordering": "1"
-        }
-    }
+   
+    
 ]
